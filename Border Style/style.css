@@ -1,0 +1,66 @@
+.solidbox {
+   width: 100px;
+    height: 100px;
+    border: 5px solid orangered;
+    border-radius: 50%;
+}
+
+
+.dottedbox{
+    width:100px;
+    height:100px;
+    border: 5px dotted black;
+    border-radius: 50%;
+}
+
+.dashed{
+    width:100px;
+    height:100px;
+    border: 5px dashed blue;
+    border-radius: 50%;
+}
+
+.groove{
+    width:100px;
+    height:100px;
+    border: 5px groove palevioletred;
+    border-radius: 50%;
+}
+
+.ridge{
+    width:100px;
+    height:100px;
+    border: 5px ridge yellowgreen;
+    border-radius: 50%;
+
+}
+
+.inset{
+    width:100px;
+    height:100px;
+    border: 5px inset yellow;
+    border-radius: 50%;
+
+}
+
+.outset{
+    width:100px;
+    height:100px;
+    border: 5px outset orange;
+    border-radius: 50%;
+
+}
+
+.none{
+    width:100px;
+    height:100px;
+    border: 5px none violet;
+    border-radius: 50%;
+
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
