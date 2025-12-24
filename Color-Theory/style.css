@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.colortype{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 50%;
+}
+
+h2{
+    text-align: center;
+}
+
+#color{
+    background-color: blueviolet;
+}
+#hexa{
+    background-color:#00FF00;
+}
+#rgb{
+    background-color: rgb(300,120,200);
+}
+#rgba{
+    background-color: rgba(300,200,170,0.5);
+}
+#hsl{
+    background-color: hsl(180,70%,50%);
+}
+#hsla{
+    background-color: hsla(150,20%,40%);
+
+}
+#gradient{
+     background: linear-gradient(brown,blueviolet);
+
+}
